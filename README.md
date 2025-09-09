@@ -27,7 +27,6 @@ Contient les indicateurs liés au service après-vente :
 - **Column chart** : Nombre de rappels par modèle  
 - **Treemap** : Sentiment client (positif, neutre, négatif)  
 - **Combo chart (line + bar)** : Quantité vendue par mois vs Profit  
-- **Heatmap / Pivot table** : Rappels par modèle et système affecté  
 
 ---
 
@@ -42,7 +41,7 @@ Contient les indicateurs liés au service après-vente :
 
 ## 🚀 Outils utilisés
 - **Google Looker Studio** : Création des dashboards  
-- **Excel / CSV** : Sources de données  
+- **Excel** : Sources de données  
 
 
 ---
@@ -54,7 +53,3 @@ Grâce à ce projet, le manager régional de SwiftAuto Traders peut :
 - Évaluer l’impact des rappels sur les modèles  
 - Comprendre le sentiment client pour améliorer la satisfaction  
 
----
-
-## 👨‍💻 Auteur
-Projet réalisé par **Adama Fall** dans le cadre du cours *Data Visualization with IBM / Coursera*.
